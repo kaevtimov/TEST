@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 changes from branch2
 =======
 changes from branch1
 >>>>>>> branch1
+=======
+
+changes from branch2
+changes from branch1
+>>>>>>> 5329af6a64fe52fc245c5751e23f4aa049d06a45
